@@ -2,6 +2,11 @@
   margin: 0;
 }
 
+body {
+  height: 100%;
+  width: 100%;
+}
+
 /*comienzo de encabezado */
 .BIGBOX,
 footer {
@@ -69,26 +74,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-
-/*Siguiente seccion*/
-
-/* .Boxes {
-  display: flex;
-}
-
-.litBox {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
-
-.BoxImg {
-  width: 100px;
-  height: 100px;
-  border-radius: 20px;
-  overflow: hidden;
-}
- */
 
 /* Cajas con imagenes */
 
